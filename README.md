@@ -10,7 +10,7 @@ AI Model: Google Gemini 2.5 Flash
 Libraries: google-genai, python-dotenv, colorama
 Platform: Windows
 Cost: $0 (Gemini free tier)
-<img width="1176" height="369" alt="" src="(https://learn.nextwork.org/projects/static/ai-security-audit-copy/architecture.webp)" />
+<img width="3106" height="839" alt="image" src="https://github.com/user-attachments/assets/ab624136-f1da-42b9-ace1-ff8b482e1751" />
 
 🏗️ Architecture Design
 
